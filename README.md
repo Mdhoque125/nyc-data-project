@@ -24,7 +24,7 @@ The project pulls data from NYC public datasets, cleans and processes it, and pr
 This chart shows NYC complaints by borough:
 
 ![NYC Plot](screenshots/plot1.png)
-
+https://github.com/Mdhoque125/nyc-data-project/blob/main/Screenshots/plot1.png
 ## How to Run
 1. Clone the repository:
 ```bash
