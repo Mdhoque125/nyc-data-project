@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+env.bak/
+venv/
+venv.bak/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Wheel files
+*.whl
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Pytest
+.cache
+
+# pyenv
+.python-version
