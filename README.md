@@ -23,7 +23,7 @@ The project pulls data from NYC public datasets, cleans and processes it, and pr
 ### Example Plot 1
 This chart shows NYC complaints by borough:
 
-![NYC Plot](screenshots/plot1.png)
+![NYC Plot](Screenshots/plot1.png)
 
 ## How to Run
 1. Clone the repository:
